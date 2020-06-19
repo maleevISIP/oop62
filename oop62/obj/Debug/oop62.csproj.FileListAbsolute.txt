@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\bin\Debug\oop62.exe.config
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\bin\Debug\oop62.exe
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\bin\Debug\oop62.pdb
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\obj\Debug\oop62.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\obj\Debug\oop62.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\obj\Debug\oop62.exe
+C:\Users\vinchi\Desktop\кидаю\oop62\oop62\oop62\obj\Debug\oop62.pdb
